@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mordisco-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Mordisco de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordisco-de-amor/) |
+| **Get License** | [Request Licensing for Mordisco de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordisco-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `4c034413a57d849282ca5b72a07c086d2c12610ad1e3c5c868e1c5117f352b40` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mordisco de amor
+
+This log tracks the cryptographic history and versioning for the song **Mordisco de amor** (mordisco-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T23:41:13.269827 | `v1` | `4c034413a57d849282ca5b72a07c086d2c12610ad1e3c5c868e1c5117f352b40` | `c5665fccb540e0cc55fefd062feb26a33d1f890f91504e3aa6500f84c55e4c1c` | `2026-06-15_mordisco-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
