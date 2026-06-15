@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mordisco-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Mordisco de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordisco-de-amor/) |
+| **Get License** | [Commercial Licensing for Mordisco de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mordisco-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te vienes conmigo
+> Que yo quiero ser mucho más que tu amigo
+> Te daré un mordisco de amor prohibido
+> Para que recuerdes todo lo que vivimos
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
